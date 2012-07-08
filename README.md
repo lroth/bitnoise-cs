@@ -1,10 +1,10 @@
-Bitnoise Standardy
-==================
+Bitnoise Code Guide
+===================
 
-- [PHP][bitnoise-php-cs]
-- [CSS][bitnoise-css-cs]
-- [JS][bitnoise-js-cs]
-- [Symfony2][bitnoise-sf2-cs]
+- [PHP][bitnoise-php-cs] - formatowanie
+- [CSS][bitnoise-css-cs] - formatowanie i wskazówki
+- [JS][bitnoise-js-cs] - formatowanie
+- [Symfony2][bitnoise-sf2-cs] - struktura, wskazówki, snippety
 
 [bitnoise-php-cs]: https://github.com/lroth/bitnoise-cs/blob/master/bitnoise-php-cs.md
 [bitnoise-css-cs]: https://github.com/lroth/bitnoise-cs/blob/master/bitnoise-css-cs.md
