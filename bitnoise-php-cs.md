@@ -299,12 +299,11 @@ $arr = array(
     'first' => 'foo',
     'last'  => 'bar'
 );
-
 ```
 
 - Długie łańcuchy wywołań metod formatuj następująco:
-```php
 
+```php
 $this->getEntityManager()
   ->getRepository()
   ->find()
