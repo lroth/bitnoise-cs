@@ -294,6 +294,7 @@ try {
 `$bool = isset($a) ? true : false;`
 
 - Definiując tablice w wielu liniach zachowaj odpowiednie formatowanie:
+
 ```php
 $arr = array(
     'first' => 'foo',
