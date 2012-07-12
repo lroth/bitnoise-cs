@@ -305,9 +305,9 @@ $arr = array(
 
 ```php
 $this->getEntityManager()
-  ->getRepository()
-  ->find()
-  ->limit(10)
+    ->getRepository()
+    ->find()
+    ->limit(10)
 ;
 
 ```
