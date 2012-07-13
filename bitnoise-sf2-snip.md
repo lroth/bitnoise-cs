@@ -32,18 +32,20 @@ public function findOneBy(array $criteria)
 
 6.Entity extended class annotation  (prevent to create db table with the name of new class)
 ----------------------------
+
 /**
  * @Orm\MappedSuperclass
  * @ORM\Table(name="user")
  */
 
- 7.Update db schema based on the entity changes
- ----------------------------
- php app/console doctrine:schema:update --dump-sql    #show sql dump
- php app/console doctrine:schema:update --force       #force update db
 
- 8.Load fixtures if db is not empty
- ---------------------------
+7.Update db schema based on the entity changes
+----------------------------
+php app/console doctrine:schema:update --dump-sql    #show sql dump
+php app/console doctrine:schema:update --force       #force update db
+
+8.Load fixtures if db is not empty
+---------------------------
 php app/console doctrine:schema:drop --force --full-database
 php app/console doctrine:schema:update --force
 php app/console doctrine:fixtures:load
