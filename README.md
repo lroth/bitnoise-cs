@@ -11,4 +11,4 @@ Bitnoise Code Guide
 [bitnoise-css-cs]: https://github.com/lroth/bitnoise-cs/blob/master/bitnoise-css-cs.md
 [bitnoise-js-cs]: https://github.com/lroth/bitnoise-cs/blob/master/bitnoise-js-cs.md
 [bitnoise-sf2-cs]: https://github.com/lroth/bitnoise-cs/blob/master/bitnoise-sf2-cs.md
-[bitnoise-sf2-cs]: https://github.com/lroth/bitnoise-cs/blob/master/bitnoise-sf2-snip.md
+[bitnoise-sf2-snip]: https://github.com/lroth/bitnoise-cs/blob/master/bitnoise-sf2-snip.md
